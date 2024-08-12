@@ -47,8 +47,8 @@ function About() {
         </h1>
         <div className="flex gap-10 mt-5">
           {skills.map((skill, index) => (
-            <div className="border border-tertiary hover:bg-tertiary py-1 px-5" key={index}>
-              <h1 className="text-tertiary hover:text-primary my-2">{skill}</h1>
+            <div className="border-2 border-tertiary hover:bg-tertiary py-1 px-5" key={index}>
+              <h1 className="text-white hover:text-primary my-2">{skill}</h1>
             </div>
           ))}
         </div>

@@ -1,15 +1,22 @@
 import './App.css'
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Home from './Pages/Home/Home';
+import About from './Pages/Home/About';
+import Experineces from './Pages/Home/Experineces';
+import Projects from './Pages/Home/Projects';
 
 function App() {
   
 
   return (
-    // < div className='flex h-screen items-center justify-center'> 
+   
     <BrowserRouter>
       <Routes>
         <Route path='/' element={<Home/>}/>
+        <Route path='/About' element={<About/>}/>
+        <Route path='/Experineces' element={<Experineces/>}/>
+        <Route path='/Proje' element={<Projects/>}/>
+
       </Routes>
     </BrowserRouter>
       
