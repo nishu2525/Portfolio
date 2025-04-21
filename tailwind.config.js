@@ -12,9 +12,14 @@ export default {
         "primary":"#0A192F",
         "secondary":"#F97316",
         "tertiary":"#54D6BB",
-        "teal":"#008080"
+        "teal":"#008080",
+        "pink" : "#FF0080"
       }
     },
+    // screens: {
+    //   'sm': '640px',
+    //   'lg': '1024px',
+    // }
   },
   plugins: [flowbite.plugin(),],
 }

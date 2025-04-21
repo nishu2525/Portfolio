@@ -1,5 +1,4 @@
 
-
 function Sectitle({title}) {
   return (
     <div className="flex gap-6  items-center py-10">
