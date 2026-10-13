@@ -9,6 +9,8 @@ function Intro() {
       <div className="text-teal flex flex-wrap">
       <TypeAnimation
       sequence={[
+        'Pursuing MBA in Marketing & Business Anaytics ',
+        1000,
         'a Frontend Developer',
         1000,
         'a React.js Developer',
@@ -26,9 +28,8 @@ function Intro() {
       repeat={Infinity}
     />
       </div>
-      <h2 className="text-3xl lg:text-5xl text-white font-semibold">Transforming Ideas into Dynamic Web Applications.</h2>
-      {/* <p className="text-white lg:w-2/3">I am a passionate software developer with a strong foundation in the MERN stack, eager to build scalable and high-quality web applications. I&apos;m committed to learning and growing, staying up-to-date with industry trends, and solving challenges with creative and effective solutions.</p> */}
-      <a href="https://drive.google.com/file/d/1mA7xUxV-xtBVEQbdcJDiRpeAHVYT1JLg/view?usp=sharing" target="_blank"><button className="border-2 border-tertiary text-white px-8 py-2 hover:bg-tertiary hover:text-primary">Know More</button></a>
+      <h2 className="text-3xl lg:text-5xl text-white font-semibold">Where Technology Meets Business: Analytics, Customer Relationships & Web Development.</h2>
+      <a href="https://drive.google.com/file/d/1KnaNYUedRQ2dy6BoO5xurBiOlRpKYXGs/view?usp=drive_link" target="_blank"><button className="border-2 border-tertiary text-white px-8 py-2 hover:bg-tertiary hover:text-primary">Know More</button></a>
     </div>
   )
 }
