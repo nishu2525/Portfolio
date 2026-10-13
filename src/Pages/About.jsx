@@ -8,15 +8,11 @@ function About() {
     "Power BI",
     "Tableau",
     "SQL",
-    "MS Excel",
     "CRM",
   "Lead Generation",
   "Business Development",
     "React Native",
-    "JavaScript",
     "MERN Stack",
-    "HTML",
-    "CSS",
   ];
   return (
     <div id="about-section">
