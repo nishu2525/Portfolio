@@ -5,16 +5,18 @@ import Sectitle from "../components/Sectitle";
 
 function About() {
   const skills = [
+    "Power BI",
+    "Tableau",
+    "SQL",
+    "MS Excel",
+    "CRM",
+  "Lead Generation",
+  "Business Development",
     "React Native",
-    "Tailwind CSS",
     "JavaScript",
-    "React.js",
-    "Node.js",
-    "Express.js",
-    "MongoDB",
+    "MERN Stack",
     "HTML",
     "CSS",
-
   ];
   return (
     <div id="about-section">
