@@ -9,6 +9,7 @@ function Contact() {
     name: "Nishad Ravindra Umap",
     email: "umapnishad1@gmail.com",
     mobile: "+91-9307992632",
+    university: "Universal Ai University",
     country: "INDIA",
   };
 
