@@ -25,10 +25,16 @@ function About() {
         </div>
         <div className="w-full flex flex-col gap-8 lg:w-1/2 lg:h-[70vh] justify-center">
           <p className="text-white tracking-widest">
-          Hello! I&apos;m Nishad Umap, a passionate Full Stack Developer with experience in building responsive and scalable web and mobile applications. My development journey began with the MERN stack, where I built hands-on projects like an Amazon clone and contact management app. These projects taught me the value of clean UI, performance optimization, and real-world problem-solving through code. I enjoy working with technologies like <strong>React.js and React Native</strong> to create seamless user experiences.
+          Hello! I&apos;m Nishad Umap, an MBA student at Universal AI University, specializing in Marketing & Business Analytics, with a background in full-stack and mobile application development.
           </p>
           <p className="text-white tracking-widest">
-          Currently, I&apos;m working as a <strong>Jr. Full Stack Developer at PowerCode Technology</strong>, where I focus on building mobile interfaces and integrating backend APIs. I&apos;m always learning and exploring new tools to stay ahead in this fast-evolving industry. My goal is to build user-focused applications that are both functional and intuitive. I thrive in collaborative environments and am always excited to take on challenging projects that push my skills and creativity forward.
+          My professional journey began in software development, where I worked as a Jr. Full Stack Developer at Power Code Technology, building mobile application interfaces using React Native and JavaScript, integrating backend APIs, and collaborating with cross-functional teams. This experience helped me develop strong problem-solving, technical, and analytical skills.
+          </p>
+          <p className="text-white tracking-widest">
+          Currently, I'm expanding my expertise in business strategy, market research, customer relationship management, and data-driven decision-making through my MBA. During my internship at Austin Realty, I worked with channel partners and customers, supported the sales process, and contributed to 14 property bookings worth ₹7+ crore in transaction value.
+         </p>
+          <p className="text-white tracking-widest">
+          I&apos;m passionate about bridging the gap between technology and business by combining my technical foundation with management knowledge and analytical thinking. My goal is to contribute to projects that solve real-world business problems, improve customer experiences, and create measurable value. I enjoy collaborating with diverse teams, learning new skills, and exploring opportunities at the intersection of technology, business analytics, and management.
           </p>
         </div>
       </div>
